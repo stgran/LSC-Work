@@ -30,7 +30,6 @@ class AddressParser():
 
     def __init__(self, filename, cities_db_filename, column_name='address', batch_filename='census_batch.csv', census_results_filename='census_results.csv'):
         self.filename = filename
-        self.column_name = column_name
         self.batch_filename = batch_filename
         self.census_results_filename = census_results_filename
 
