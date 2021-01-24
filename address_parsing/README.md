@@ -1,4 +1,4 @@
-# LSC address parsing
+# Address parsing
 ## Files
 address_parsing.py  
 cities_db.csv
