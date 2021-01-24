@@ -9,4 +9,4 @@ This code has functionality to prepare data into three formats: weekly, monthly,
 
 The CSVs outputted by this code should be ready for direct upload to Tableau for visualization.
 
-The .py and .ipynb files are identical to each other.
+The .py and .ipynb files contain the same code.
