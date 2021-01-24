@@ -149,4 +149,4 @@ class AddressParser():
         results_df.to_csv(self.census_results_filename)
 
 
-AddressParser('Downloads/tn_shelby_no_geo.csv', 'Downloads/new_cities_db.csv', column_name='address', batch_filename='census_batch.csv', census_results_filename='Downloads/census_results_102220.csv')
+AddressParser('Downloads/tn_shelby_no_geo.csv', 'Downloads/cities_db.csv', column_name='address', batch_filename='census_batch.csv', census_results_filename='Downloads/census_results_102220.csv')
