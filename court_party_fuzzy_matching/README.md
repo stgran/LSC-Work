@@ -1,6 +1,6 @@
 # Fuzzy Matching of Legal Parties
 ## Files
-FuzzyMatching.py
+FuzzyMatching.py  
 FuzzyMatching.ipynb
 
 Both files contain the same code, except that the .ipynb file contains tests at the end of the file.
