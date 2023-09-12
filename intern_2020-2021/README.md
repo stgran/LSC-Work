@@ -1,0 +1,8 @@
+# intern_2020-2021
+
+This directory contains four projects I completed as an Intern in LSC's Office of Data Governance and Analysis from September 2020 through May 2021.  
+
+- `address_parsing`: I decided to use the U.S. Census Geocoder's API to geocode a large number of addresses to improve the quality of our data. The API requires that input addresses be broken down before submitting. I created a Python class to parse our addresses so that the Geocoder could process our address data. The Python class also uploads the parsed addresses to the API and saves the results.  
+<!-- - `aoc_verification`: REMOVE THIS SUBDIRECTORY. IT IS NOT GOOD.-->
+- `court_data_processing`: As an Intern, I did my data visualizations in Tableau. I created a Python class to organize the data I was visualizing into weekly, monthly, or cumulative monthly formats.  
+- `court_party_fuzzy_matching`: The court records we scraped generally contained information about the parties (defendants, plaintiffs, etc.) involved in the case. Sometimes we were interested in parties involved in large numbers of cases. We identify these parties and their cases by aggregating cases by party name. If variation exists in how a certain party's name has been written from case to case (e.g. due to different abbreviations or typos), the varying party names will not be grouped together. I created a Python class to use fuzzy matching to group slightly varying party names into a unified party name to facilitate aggregation.  

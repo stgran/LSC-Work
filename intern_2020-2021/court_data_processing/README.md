@@ -7,7 +7,7 @@ Both files contain the same code.
 
 ## Description
 This code prepares court data for visualization with Tableau.  
-CourtData.py contains a class that reorganizes eviction case data scraped from court websites into chronologically-organized counts of evictions. This data is organized into yearly columns and broken down by either week or month. This code can organize data into three formats weekly, monthly, and cumulative monthly.  
+CourtData.py contains a class that reorganizes eviction case data scraped from court websites into chronologically-organized counts of evictions. This data is organized into yearly columns and broken down by either week or month. This code can organize data into three formats: weekly, monthly, and cumulative monthly.  
 This class contains seven methods. Three of them are involved in data preprocessing. Three of them are callable to return different data outputs. The last one supports the callable methods.
 #### Preprocessing
   - get_info(self, data, parameters): Extracts relevant information from overall court data.
