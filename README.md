@@ -1,6 +1,6 @@
 # LSC-Work
 
-I worked for Legal Services Corporation twice: most recently as a Data Engineer in ODGA from July 2022 through August 2023, and previously as an Intern in the Office of Data Governance and Analysis (ODGA) from September 2020 through May 2021.  
+I worked for Legal Services Corporation twice: most recently as a Data Engineer in the Office of Data Governance and Analysis (ODGA) from July 2022 through August 2023, and previously as an Intern in ODGA from September 2020 through May 2021.  
 
 This repository contains code samples from my time as a Data Engineer and as an Intern.  
  
