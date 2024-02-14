@@ -10,7 +10,8 @@ This repository contains the following samples and explanations of their context
 <!--- - Deduplication macro in DBT (SQL, DBT, Jinja) --->
 - Ad hoc data ingestion tests (Python; Sentry; Docker; AWS S3, Lambda, Glue)
 - Weekly data flows (Python, Prefect)
-<!--- - Data analysis (R, R Markdown) --->
+- Data analysis (R, R Markdown)
+- Data preparation (SQL)
 <!--- - Web scrapers (Python, AWS SQS) --->
 
 ### Languagues / Technologies Used
